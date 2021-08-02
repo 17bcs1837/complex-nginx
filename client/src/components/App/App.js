@@ -28,7 +28,7 @@ const App = () => {
     }
     return (
         <div>
-            <div><h1>Hello From React</h1></div>
+            <div><h1>Hello From React Frontend</h1></div>
             <div><h1>{ val }</h1></div>
             <br />
             <form onSubmit={handleSubmit}>
